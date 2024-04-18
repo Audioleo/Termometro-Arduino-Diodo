@@ -3,5 +3,7 @@ Este proyecto consiste en un termómetro basado en diodo de silicio 1N4005/1N400
 Link relacionados:
 
 https://www.instructables.com/DIY-Temperature-Sensor-Using-One-Diode/
-https://learn.newmedia.dog/tutorials/arduino-and-electronics/arduino/analog-input-filtering-smoothing/
+
 https://www.hackster.io/microst/thermometer-diode-based-524613
+
+https://learn.newmedia.dog/tutorials/arduino-and-electronics/arduino/analog-input-filtering-smoothing/
