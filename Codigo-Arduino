@@ -10,7 +10,7 @@ Vf(tx) = dTx - Vf0 is obtained by acquiring as many samples of Vf.
 */
 
 // Directives
-// OLED I2C dispaly libraries and definitions:
+// OLED I2C display libraries and definitions:
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <gfxfont.h>
