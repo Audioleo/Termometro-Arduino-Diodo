@@ -1,6 +1,6 @@
 # Termómetro basado en diodos de silicio
 
-Construye este termómetro utilizado un simple diodo de silicio como el 1N4007/1N4005 como sensor de temperatura sobre Arduino (Nano) + Pantalla OLED de 128x64 pixeles. El termómetro se basa en la característica de que al aumentar la temperatura del diodo, se reduce su tensión directa (Vf) en 2,2mV/°C. El termómetro inspirado principalmente en el Sensor de Temperatura con un diodo de Instructables y otros sitios de internet.
+Construye este termómetro utilizado un simple diodo de silicio, como el 1N4007/1N4005 como sensor de temperatura sobre Arduino (Nano) + Pantalla OLED de 128x64 pixeles. El termómetro se basa en la característica de reducir su umbral de tensión directa (Vf) al aumentar la temperatura del diodo. El termómetro está inspirado en el Sensor de Temperatura con un diodo de Instructables y otros sitios de internet.
 
 ## Más detalles y explicación 
 Visite el artículo del blog: [Termómetro con Arduino y diodo 1N4007](https://blogtronika.blogspot.com/2020/01/termometro-con-arduino-y-diodo-sensor-1n4007.html)
